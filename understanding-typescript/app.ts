@@ -1,1 +1,4 @@
-console.log("My code goes here...");
+const person = {
+  name: 'João',
+  age: 26
+}
