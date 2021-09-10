@@ -1,5 +1,6 @@
-var userInput;
-var userName;
+"use strict";
+let userInput;
+let userName;
 userInput = 5;
 userInput = 'Max';
 if (typeof userInput === 'string') {
@@ -10,3 +11,4 @@ function generateError(message, code) {
     // while (true) {}
 }
 generateError('An error occurred!', 500);
+//# sourceMappingURL=app.js.map
